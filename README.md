@@ -4,7 +4,7 @@ Pre-requisites:
 LeviLauncher for Windows
 
 Installation:
-Just download the file and execute it. Ctrl + C to stop the process.
+Download the file and import it in LeviLauncher
 
 Build from source:
 1. Install [msys2](msys2.org) and follow default prompts.
