@@ -1,4 +1,7 @@
-Hi! I made a simple script to make minecraft bedrock better.
+Hi! I made a simple program to make minecraft bedrock better.
+
+Pre-requisites:
+LeviLauncher for Windows
 
 Installation:
 Just download the file and execute it. Ctrl + C to stop the process.
